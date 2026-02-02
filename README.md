@@ -1,4 +1,4 @@
-# NumPy-Tutorial-Practice-W3Schools-
+
 # NumPy Study Guide (W3Schools Tutorial)
 
 ## 📘 Project Description
